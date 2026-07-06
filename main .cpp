@@ -28,11 +28,11 @@ int main() {
     cout << " Student Information System" << endl;
     cout << "==============================" << endl;
 
-    cout << "Name       : " << name << endl;
-    cout << "ID         : " << id << endl;
-    cout << "Section    : " << section << endl;
-    cout << "Department : " << department << endl;
-    cout << "University : " << university << endl;
+    cout << "Name       : " << MD. Aminul islam Kayum << endl;
+    cout << "ID         : " << 24-57168-2 << endl;
+    cout << "Section    : " << section:D << endl;
+    cout << "Department : " << cse << endl;
+    cout << "University : " << AIUB << endl;
 
     cout << "\nWelcome to Git and GitHub!" << endl;
 
