@@ -1,5 +1,6 @@
 # git-practice
 Soft Eng X practice season 
+
 Objective
 - Learn the basic concepts of Git and GitHub.
 - Create and initialize a local Git repository.
